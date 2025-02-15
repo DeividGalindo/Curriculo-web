@@ -4,6 +4,6 @@ Olá, meu nome é Deivid, tenho 20 anos, sou de Londrina, terminei meu ensino m�
 
 ## Hard Skills
 
--Dedicado
--Proativo
--Comunicativo
+* Dedicado
+* Proativo
+* Comunicativo
