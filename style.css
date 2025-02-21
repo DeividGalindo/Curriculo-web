@@ -1,5 +1,16 @@
 /* Arquivo de estilização */
 
-h1{
-    color: red;
+body{
+    margin: 0;
+    pad: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
 }
+
+/* Estilo de cabeçalho */
+
+header{
+    
+}
+
