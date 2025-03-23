@@ -24,7 +24,7 @@ Adicionado Email, Telefone, Linkedin e GitHub
 
 ## Seções
 
-Foi criado seções para adicionar minhas informações contendo 
+Foi criado seções para adicionar minhas informações contendo:  
 Sobre  
 Experiencia profissional  
 Ensino  
